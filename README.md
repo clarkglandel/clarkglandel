@@ -5,7 +5,6 @@ I’m a results-driven **Full Stack Developer** with over 8 years of experience 
 
 ## 📬 Contact Information
 - **Email:** [clarkglandel@gmail.com](mailto:clarkglandel@gmail.com)
-- **Phone:** +639268578461
 - **Location:** Quezon City, Philippines
 
 ## 💼 Work Experience
