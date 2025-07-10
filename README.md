@@ -22,14 +22,6 @@ Quezon City, Philippines
 - Specialized in full-stack product development creating applications like CRM and ERP systems using JavaScript frameworks.
 - Led front-end development best practices.
 
-## 💻 Projects
-- **[AMOS](https://amosvca.com/)**: Automated maintenance and operations system for construction, logistics, and fleets.
-- **Self-Service Portal**: Developed a user-friendly portal for customers to apply for internet connections and track application status.
-- **[TeraCrome](https://teracrome.com/)**: CRM, bill presentment, and operations management for cable TV companies.
-- **[SkyZenn](https://skyzenn.com/)**: Customer engagement through Wi-Fi access management with real-time data analytics.
-- **[Bell Yeah!](https://bellyeah.jp/)**: A web-based queue management and paging system with no app installation required.
-- **TeraWork**: Customizable web-based HRIS and payroll system.
-- **TeraKonstruct**: Materials inventory system for construction companies.
 
 ## 🛠️ Skills
 - **Languages & Frameworks**: JavaScript, TypeScript, React, Vue, Node.js, Next.js, Nuxt.js, jQuery
