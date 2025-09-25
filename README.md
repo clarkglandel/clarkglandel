@@ -3,25 +3,6 @@
 ## 🌐 About Me
 I’m a results-driven **Full Stack Developer** with over 8 years of experience in designing, developing, and implementing innovative web applications and ERP systems. I am proficient in a variety of technologies including JavaScript frameworks, Node.js, and AWS services, with a strong focus on enhancing user experience and ensuring data security.
 
-## 📬 Contact Information
-- **Email:** [clarkglandel@gmail.com](mailto:clarkglandel@gmail.com)
-- **Location:** Quezon City, Philippines
-
-## 💼 Work Experience
-### JavaScript Developer
-**77 Global Services Inc**  
-*May 2022 - Present*  
-Pasig, Philippines  
-- Contributed to secure integration of banking systems through REST APIs, AWS, and Twilio services.
-- Developed integrations connecting to core banking APIs and maintained contact center solutions.
-
-### Full Stack Developer
-**Teratomo Corporation**  
-*2016 - 2022*  
-Quezon City, Philippines  
-- Specialized in full-stack product development creating applications like CRM and ERP systems using JavaScript frameworks.
-- Led front-end development best practices.
-
 
 ## 🛠️ Skills
 - **Languages & Frameworks**: JavaScript, TypeScript, React, Vue, Node.js, Next.js, Nuxt.js, jQuery
